@@ -95,6 +95,9 @@ ul.remove()
 
 And it's gone!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-removing-altering-and-inserting-html-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-removing-altering-and-inserting-html-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
